@@ -44,3 +44,7 @@ Please refer to our [internal guide](https://github.com/giacThePhantom/genn-netw
 
 - Giacomo Fantoni (Giacomo.Fantoni@studenti.unitn.it)
 - Enrico Trombetta (Enrico.Trombetta@studenti.unitn.it)
+
+### Preprint describing wake-sleep transitions simulating with this code
+
+Sebastian Moguilner, Ettore Tiraboschi, Giacomo Fantoni, Heather Strelevitz, Hamid Soleimani, Luca Del Torre, Uri Hasson, Albrecht Haase bioRxiv 2024.10.11.617548; doi: https://doi.org/10.1101/2024.10.11.617548
